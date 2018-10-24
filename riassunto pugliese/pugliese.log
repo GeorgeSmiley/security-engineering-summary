@@ -1,0 +1,778 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.21)  24 OCT 2018 16:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pugliese.tex
+(./pugliese.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen106
+\Fld@menulength=\count91
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+\c@bookmark@seq@number=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(./pugliese.aux)
+\openout1 = `pugliese.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box26
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count103
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+
+(./pugliese.out) (./pugliese.out)
+\@outlinefile=\write3
+\openout3 = `pugliese.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+ (./pugliese.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write4
+\openout4 = `pugliese.toc'.
+
+ (./pugliese.lot)
+\tf@lot=\write5
+\openout5 = `pugliese.lot'.
+
+ (./pugliese.lof)
+\tf@lof=\write6
+\openout6 = `pugliese.lof'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+ [2]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmti12!
+Missing character: There is no † in font cmti12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+ [3]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+ [4]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+<img/securityrel.PNG, id=210, 588.69937pt x 453.19313pt>
+File: img/securityrel.PNG Graphic file (type png)
+<use img/securityrel.PNG>
+Package pdftex.def Info: img/securityrel.PNG  used on input line 79.
+(pdftex.def)             Requested size: 235.47557pt x 181.27403pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+[5]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Overfull \hbox (24.61734pt too wide) in paragraph at lines 99--100
+[]\OT1/cmr/m/n/12 Ad es-em-pio dis-abil-itare una com-po-nente del sis-tema (\O
+T1/cmr/bx/n/12 incapacitation\OT1/cmr/m/n/12 ),
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+[6 <./img/securityrel.PNG>]
+<img/threat.PNG, id=226, 516.42938pt x 537.50812pt>
+File: img/threat.PNG Graphic file (type png)
+<use img/threat.PNG>
+Package pdftex.def Info: img/threat.PNG  used on input line 110.
+(pdftex.def)             Requested size: 309.86002pt x 322.50735pt.
+<img/asset.PNG, id=227, 729.47531pt x 461.47406pt>
+File: img/asset.PNG Graphic file (type png)
+<use img/asset.PNG>
+Package pdftex.def Info: img/asset.PNG  used on input line 115.
+(pdftex.def)             Requested size: 291.78496pt x 184.58635pt.
+<img/scope.PNG, id=228, 740.7675pt x 441.14813pt>
+File: img/scope.PNG Graphic file (type png)
+<use img/scope.PNG>
+Package pdftex.def Info: img/scope.PNG  used on input line 120.
+(pdftex.def)             Requested size: 444.46393pt x 264.69092pt.
+
+Overfull \hbox (54.46393pt too wide) in paragraph at lines 120--121
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: img/threat.PNG Graphic file (type png)
+<use img/threat.PNG>
+Package pdftex.def Info: img/threat.PNG  used on input line 128.
+(pdftex.def)             Requested size: 309.86002pt x 322.50735pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+[7 <./img/threat.PNG>]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8 <./img/asset.PNG> <./img/scope.PNG>]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Overfull \hbox (5.31395pt too wide) in paragraph at lines 134--135
+\OT1/cmr/m/n/12 As-si-cu-rarsi che i man-ager e gli utenti del sis-tema siano i
+n-for-mati riguardo
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+[9]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+Missing character: There is no ‚ in font cmbxti10!
+Missing character: There is no Ä in font cmbxti10!
+Missing character: There is no ú in font cmbxti10!
+Missing character: There is no ‚ in font cmbxti10!
+Missing character: There is no Ä in font cmbxti10!
+Missing character: There is no ô in font cmbxti10!
+Missing character: There is no ‚ in font cmbxti10!
+Missing character: There is no Ä in font cmbxti10!
+Missing character: There is no ô in font cmbxti10!
+Missing character: There is no ‚ in font cmbxti10!
+Missing character: There is no Ä in font cmbxti10!
+Missing character: There is no ù in font cmbxti10!
+<img/desprinc.PNG, id=246, 544.28343pt x 345.54094pt>
+File: img/desprinc.PNG Graphic file (type png)
+<use img/desprinc.PNG>
+Package pdftex.def Info: img/desprinc.PNG  used on input line 145.
+(pdftex.def)             Requested size: 217.70952pt x 138.21391pt.
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+[10 <./img/desprinc.PNG>]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no π in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmti12!
+Missing character: There is no ® in font cmti12!
+ [11]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Overfull \hbox (35.66776pt too wide) in paragraph at lines 170--171
+[]\OT1/cmr/m/n/12 Il sec-ondo riguarda la pos-si-bilit di svilup-pare il de-sig
+n e l'implementazione
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+<img/exarea.PNG, id=258, 651.93562pt x 395.22656pt>
+File: img/exarea.PNG Graphic file (type png)
+<use img/exarea.PNG>
+Package pdftex.def Info: img/exarea.PNG  used on input line 180.
+(pdftex.def)             Requested size: 260.76962pt x 158.08781pt.
+[12]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≤ in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+ [13 <./img/exarea.PNG>]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Overfull \hbox (32.84851pt too wide) in paragraph at lines 207--208
+[]\OT1/cmr/m/n/12 La radice rap-p-re-senta l'obiettivo dell'attaccante: \OT1/cm
+r/bx/n/12 com-pro-met-tere l'account
+ []
+
+[14]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+
+Overfull \hbox (5.34708pt too wide) in paragraph at lines 220--221
+[]\OT1/cmr/bx/n/12 Iniezione di co-mandi\OT1/cmr/m/n/12 : in-ter-cettare le co-
+mu-ni-cazioni tra un utente
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+[15]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+ [16]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+
+Overfull \hbox (10.63976pt too wide) in paragraph at lines 259--260
+\OT1/cmr/m/n/12 prat-ica  una tec-nica uni-ver-sale per fornire la \OT1/cmr/bx/
+n/12 con-fi-den-tial-ity \OT1/cmr/m/n/12 dei dati (trasmessi
+ []
+
+[17]
+Overfull \hbox (14.1422pt too wide) in paragraph at lines 267--268
+[]\OT1/cmr/bx/n/12 Secret key\OT1/cmr/m/n/12 : le sos-ti-tuzioni e le trasfor-m
+azioni es-e-guite dall'algoritmo
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+[18]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmbxti10!
+Missing character: There is no ® in font cmbxti10!
+Missing character: There is no √ in font cmbxti10!
+Missing character: There is no ® in font cmbxti10!
+Missing character: There is no √ in font cmbxti10!
+Missing character: There is no π in font cmbxti10!
+ [19]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+
+Overfull \hbox (6.29306pt too wide) in paragraph at lines 321--322
+[]\OT1/cmr/m/n/12 Il codice che im-ple-menta l'algoritmo non  ef-fi-ciente ( co
+m-putazional-
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
+
+ []
+
+[20]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+[21]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ® in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+ [22]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ® in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Overfull \hbox (3.038pt too wide) in paragraph at lines 375--376
+[]\OT1/cmr/m/n/12 Applicazioni nelle quali un mes-sag-gio deve es-sere in-vi-at
+o tramite \OT1/cmr/bx/n/12 broad-
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no † in font cmbx12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+[23]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
+ [24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
+ (./pugliese.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
+
+
+Package rerunfilecheck Warning: File `pugliese.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `pugliese.out':
+(rerunfilecheck)             Before: 300887E02A642D7D810FD7E407983EB4;2701
+(rerunfilecheck)             After:  EB5AC0B673DA45692489BBE2CD08DE42;2796.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 416.
+ ) 
+Here is how much of TeX's memory you used:
+ 5229 strings out of 492982
+ 77340 string characters out of 6134896
+ 160591 words of memory out of 5000000
+ 8654 multiletter control sequences out of 15000+600000
+ 9514 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,7n,28p,767b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti12.pfb>
+Output written on pugliese.pdf (24 pages, 706921 bytes).
+PDF statistics:
+ 411 PDF objects out of 1000 (max. 8388607)
+ 360 compressed objects within 4 object streams
+ 112 named destinations out of 1000 (max. 500000)
+ 279 words of extra memory for PDF output out of 10000 (max. 10000000)
+

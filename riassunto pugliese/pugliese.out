@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Overview}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Computer Security Concepts}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{CIA triad: tre obiettivi per la sicurezza}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Livelli di impatto riguardo a breccie nella sicurezza}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{Sfide riguardo la sicurezza dei computer}{subsection.1.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.1.4}{Un modello per la sicurezza dei computer}{subsection.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.2}{Minacce, attacchi e asset}{section.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Minacce, conseguenze ed attacchi}{subsection.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.3}{Functional requirement per la sicurezza}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.4}{Principi fondamentali di design per la sicurezza}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.5}{Superfici di attacco e alberi di attacco}{section.1}% 11
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Categorie di superfici di attacco}{subsection.1.5}% 12
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Alberi di attacco}{subsection.1.5}% 13
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Albero di attacco relativo a una applicazione di autenticazione per servizio bancario }{subsection.1.5}% 14
+\BOOKMARK [2][-]{subsection.1.6}{Strategia per la computer security}{section.1}% 15
+\BOOKMARK [3][-]{subsubsection.1.6.1}{Specifiche/politiche}{subsection.1.6}% 16
+\BOOKMARK [3][-]{subsubsection.1.6.2}{Implementazione/meccanismi}{subsection.1.6}% 17
+\BOOKMARK [3][-]{subsubsection.1.6.3}{Correttezza/assurance}{subsection.1.6}% 18
+\BOOKMARK [1][-]{section.2}{CryptoTools}{}% 19
+\BOOKMARK [2][-]{subsection.2.1}{Symmetric Encryption}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Model of Symmetric Encryption}{subsection.2.1}% 21
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Approaches to Attacking}{subsection.2.1}% 22
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Data Encryption Standard \(DES\)}{subsection.2.1}% 23
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Triple DES}{subsection.2.1}% 24
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Advanced Encryption Standards \(AES\)}{subsection.2.1}% 25
+\BOOKMARK [3][-]{subsubsection.2.1.6}{Block Cipher}{subsection.2.1}% 26
+\BOOKMARK [3][-]{subsubsection.2.1.7}{Stream Cipher Encryption}{subsection.2.1}% 27
+\BOOKMARK [3][-]{subsubsection.2.1.8}{Block Cipher vs Stream Cipher}{subsection.2.1}% 28
+\BOOKMARK [2][-]{subsection.2.2}{Message Authentication and Hash Function}{section.2}% 29
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Message \(or Data\) Authentication}{subsection.2.2}% 30
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Authentication with and without Symm. Encryption}{subsection.2.2}% 31
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Message Authentication Code \(MAC\)}{subsection.2.2}% 32
