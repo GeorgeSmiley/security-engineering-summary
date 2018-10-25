@@ -30,3 +30,13 @@
 \BOOKMARK [3][-]{subsubsection.2.2.1}{Message \(or Data\) Authentication}{subsection.2.2}% 30
 \BOOKMARK [3][-]{subsubsection.2.2.2}{Authentication with and without Symm. Encryption}{subsection.2.2}% 31
 \BOOKMARK [3][-]{subsubsection.2.2.3}{Message Authentication Code \(MAC\)}{subsection.2.2}% 32
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Cryptographic Hash Function}{subsection.2.2}% 33
+\BOOKMARK [2][-]{subsection.2.3}{Public Key Encryption}{section.2}% 34
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Encryption with public key}{subsection.2.3}% 35
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Encrytpion with private key}{subsection.2.3}% 36
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Requirement for Public-Key Cryptosystems and Algorithms}{subsection.2.3}% 37
+\BOOKMARK [2][-]{subsection.2.4}{Digital Signatures and Key Management}{section.2}% 38
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Digital Signature}{subsection.2.4}% 39
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Public Key Certificates}{subsection.2.4}% 40
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Symmetric Key Exchange Using Public-Key Encryption}{subsection.2.4}% 41
+\BOOKMARK [3][-]{subsubsection.2.4.4}{Digital Envelopes}{subsection.2.4}% 42
