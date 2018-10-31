@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.21)  25 OCT 2018 18:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.21)  31 OCT 2018 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -248,7 +248,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lot=\write5
 \openout5 = `pugliese.lot'.
 
- (./pugliese.lof)
+ (./pugliese.lof [2])
 \tf@lof=\write6
 \openout6 = `pugliese.lof'.
 
@@ -257,9 +257,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-[2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -270,11 +269,11 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmti12!
 Missing character: There is no † in font cmti12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no † in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no † in font cmr12!
  [3]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -306,16 +305,12 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
-<img/securityrel.PNG, id=247, 588.69937pt x 453.19313pt>
+ [5]
+<img/securityrel.PNG, id=292, 588.69937pt x 453.19313pt>
 File: img/securityrel.PNG Graphic file (type png)
 <use img/securityrel.PNG>
 Package pdftex.def Info: img/securityrel.PNG  used on input line 79.
 (pdftex.def)             Requested size: 235.47557pt x 181.27403pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -326,6 +321,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
+ [6 <./img/securityrel.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 
@@ -334,22 +330,21 @@ Overfull \hbox (24.61734pt too wide) in paragraph at lines 99--100
 T1/cmr/bx/n/12 incapacitation\OT1/cmr/m/n/12 ),
  []
 
-[6 <./img/securityrel.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
-<img/threat.PNG, id=267, 516.42938pt x 537.50812pt>
+<img/threat.PNG, id=302, 516.42938pt x 537.50812pt>
 File: img/threat.PNG Graphic file (type png)
 <use img/threat.PNG>
 Package pdftex.def Info: img/threat.PNG  used on input line 110.
 (pdftex.def)             Requested size: 309.86002pt x 322.50735pt.
-<img/asset.PNG, id=268, 729.47531pt x 461.47406pt>
+<img/asset.PNG, id=303, 729.47531pt x 461.47406pt>
 File: img/asset.PNG Graphic file (type png)
 <use img/asset.PNG>
 Package pdftex.def Info: img/asset.PNG  used on input line 115.
 (pdftex.def)             Requested size: 291.78496pt x 184.58635pt.
-<img/scope.PNG, id=269, 740.7675pt x 441.14813pt>
+<img/scope.PNG, id=304, 740.7675pt x 441.14813pt>
 File: img/scope.PNG Graphic file (type png)
 <use img/scope.PNG>
 Package pdftex.def Info: img/scope.PNG  used on input line 120.
@@ -365,15 +360,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: img/threat.PNG Graphic file (type png)
 <use img/threat.PNG>
 Package pdftex.def Info: img/threat.PNG  used on input line 128.
 (pdftex.def)             Requested size: 309.86002pt x 322.50735pt.
-[7 <./img/threat.PNG>]
 
-LaTeX Warning: Text page 8 contains only floats.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <./img/asset.PNG> <./img/scope.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -386,13 +382,18 @@ Overfull \hbox (5.31395pt too wide) in paragraph at lines 134--135
 n-for-mati riguardo
  []
 
-[9]
+[7]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
+ [8 <./img/threat.PNG>]
+
+LaTeX Warning: Text page 9 contains only floats.
+
+[9 <./img/asset.PNG> <./img/scope.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 
@@ -412,11 +413,14 @@ Missing character: There is no ô in font cmbxti10!
 Missing character: There is no ‚ in font cmbxti10!
 Missing character: There is no Ä in font cmbxti10!
 Missing character: There is no ù in font cmbxti10!
-<img/desprinc.PNG, id=287, 544.28343pt x 345.54094pt>
+<img/desprinc.PNG, id=323, 544.28343pt x 345.54094pt>
 File: img/desprinc.PNG Graphic file (type png)
 <use img/desprinc.PNG>
 Package pdftex.def Info: img/desprinc.PNG  used on input line 145.
 (pdftex.def)             Requested size: 217.70952pt x 138.21391pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 
@@ -424,20 +428,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--151
 
  []
 
-[10 <./img/desprinc.PNG>]
+[10]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
+ [11 <./img/desprinc.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no π in font cmbx12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
- [11]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmti12!
@@ -450,6 +454,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+ [12]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 
@@ -462,14 +467,16 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
-[12]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
-<img/exarea.PNG, id=309, 651.93562pt x 395.22656pt>
+<img/exarea.PNG, id=342, 651.93562pt x 395.22656pt>
 File: img/exarea.PNG Graphic file (type png)
 <use img/exarea.PNG>
 Package pdftex.def Info: img/exarea.PNG  used on input line 180.
 (pdftex.def)             Requested size: 260.76962pt x 158.08781pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -478,7 +485,6 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
- [13 <./img/exarea.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -489,6 +495,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no ≤ in font cmbx12!
+[13]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -507,16 +514,18 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+ [14 <./img/exarea.PNG>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
- [14]
+
 Overfull \hbox (32.84851pt too wide) in paragraph at lines 207--208
 []\OT1/cmr/m/n/12 La radice rap-p-re-senta l'obiettivo dell'attaccante: \OT1/cm
 r/bx/n/12 com-pro-met-tere l'account
  []
 
+[15]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 
@@ -525,20 +534,19 @@ Overfull \hbox (5.34708pt too wide) in paragraph at lines 220--221
 mu-ni-cazioni tra un utente
  []
 
-[15]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
+[16]
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
- [16]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -563,6 +571,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
+ [17]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -577,7 +586,7 @@ Overfull \hbox (10.63976pt too wide) in paragraph at lines 259--260
 n/12 con-fi-den-tial-ity \OT1/cmr/m/n/12 dei dati (trasmessi
  []
 
-[17]
+
 Overfull \hbox (14.1422pt too wide) in paragraph at lines 267--268
 []\OT1/cmr/bx/n/12 Secret key\OT1/cmr/m/n/12 : le sos-ti-tuzioni e le trasfor-m
 azioni es-e-guite dall'algoritmo
@@ -589,12 +598,12 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no π in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no † in font cmr12!
 [18]
 Missing character: There is no √ in font cmr12!
+Missing character: There is no π in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
@@ -602,6 +611,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+ [19]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -618,7 +628,6 @@ Missing character: There is no √ in font cmbxti10!
 Missing character: There is no ® in font cmbxti10!
 Missing character: There is no √ in font cmbxti10!
 Missing character: There is no π in font cmbxti10!
- [19]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -637,6 +646,7 @@ Overfull \hbox (6.29306pt too wide) in paragraph at lines 321--322
 m-putazional-
  []
 
+[20]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -652,9 +662,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 335--338
 
  []
 
-[20]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
+[21]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 
@@ -682,9 +692,9 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
-[21]
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no ® in font cmbx12!
+[22]
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmr12!
@@ -697,7 +707,6 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
- [22]
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no ® in font cmbx12!
 Missing character: There is no √ in font cmr12!
@@ -720,6 +729,7 @@ Overfull \hbox (3.038pt too wide) in paragraph at lines 375--376
 o tramite \OT1/cmr/bx/n/12 broad-
  []
 
+[23]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -730,7 +740,6 @@ Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
-[23]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -749,6 +758,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+ [24]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -761,7 +771,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no π in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
- [24]
+
 Overfull \hbox (17.45134pt too wide) in paragraph at lines 406--408
 \OT1/cmr/m/n/12 Proposta da Diffie e Hell-man nel 1976 rap-p-re-senta un avan-z
 a-mento rivoluzionario
@@ -769,6 +779,7 @@ a-mento rivoluzionario
 
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
+[25]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 
@@ -788,7 +799,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 417--418
 
  []
 
-[25]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -811,6 +821,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+[26]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -821,7 +832,6 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
- [26]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -834,16 +844,16 @@ Overfull \hbox (17.068pt too wide) in paragraph at lines 446--447
 s-sendo a conoscenza
  []
 
-
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 457--458
 
  []
 
-[27]
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+[28]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -856,7 +866,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≤ in font cmr12!
- [28]
+
 Overfull \hbox (2.64175pt too wide) in paragraph at lines 480--481
 \OT1/cmr/m/n/12 sag-gio fosse com-ple-ta-mente crip-tato (non solo l'hash) chi-
 unque potrebbe
@@ -873,6 +883,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
+[29]
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 
@@ -895,25 +906,74 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
-[29]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmbx12!
 Missing character: There is no † in font cmbx12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
+[30]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ® in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no † in font cmr12!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
- [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+
+Overfull \hbox (33.25291pt too wide) in paragraph at lines 519--520
+[]\OT1/cmr/bx/n/12 Verification (Au-then-ti-ca-tion)\OT1/cmr/m/n/12 : ver-i-fi-
+care che l'identit sostenuta dall'utente
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmti12!
+Missing character: There is no † in font cmti12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--524
+
+ []
+
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+[31]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no † in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 550.
+ [32]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 550.
  (./pugliese.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 550.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 550.
 
 
 Package rerunfilecheck Warning: File `pugliese.out' has changed.
@@ -921,18 +981,18 @@ Package rerunfilecheck Warning: File `pugliese.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `pugliese.out':
-(rerunfilecheck)             Before: 1A1D07948DD2A1B74297C0BB3ADB76AB;3406
-(rerunfilecheck)             After:  F2D93C21DCB556B66DA1A4FFF2D9BE20;3676.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 520.
+(rerunfilecheck)             Before: 436772E377992C9252B2860E4CD507EC;4008
+(rerunfilecheck)             After:  F9686CF52C8681C9FFBE47DF88619183;4107.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 550.
  ) 
 Here is how much of TeX's memory you used:
- 5274 strings out of 492982
- 77867 string characters out of 6134896
- 161591 words of memory out of 5000000
- 8662 multiletter control sequences out of 15000+600000
+ 5296 strings out of 492982
+ 78139 string characters out of 6134896
+ 161592 words of memory out of 5000000
+ 8669 multiletter control sequences out of 15000+600000
  9514 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,28p,767b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,28p,767b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/te
@@ -942,10 +1002,10 @@ st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti12.pfb>
-Output written on pugliese.pdf (30 pages, 722345 bytes).
+Output written on pugliese.pdf (32 pages, 726693 bytes).
 PDF statistics:
- 508 PDF objects out of 1000 (max. 8388607)
- 450 compressed objects within 5 object streams
- 149 named destinations out of 1000 (max. 500000)
- 343 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 562 PDF objects out of 1000 (max. 8388607)
+ 501 compressed objects within 6 object streams
+ 164 named destinations out of 1000 (max. 500000)
+ 399 words of extra memory for PDF output out of 10000 (max. 10000000)
 

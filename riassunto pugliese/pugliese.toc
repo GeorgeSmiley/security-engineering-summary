@@ -6,37 +6,42 @@
 \contentsline {subsubsection}{\numberline {1.1.4}Un modello per la sicurezza dei computer}{5}{subsubsection.1.1.4}
 \contentsline {subsection}{\numberline {1.2}Minacce, attacchi e asset}{6}{subsection.1.2}
 \contentsline {subsubsection}{\numberline {1.2.1}Minacce, conseguenze ed attacchi}{6}{subsubsection.1.2.1}
-\contentsline {subsection}{\numberline {1.3}Functional requirement per la sicurezza}{9}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.3}Functional requirement per la sicurezza}{7}{subsection.1.3}
 \contentsline {subsection}{\numberline {1.4}Principi fondamentali di design per la sicurezza}{10}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}Superfici di attacco e alberi di attacco}{13}{subsection.1.5}
 \contentsline {subsubsection}{\numberline {1.5.1}Categorie di superfici di attacco}{13}{subsubsection.1.5.1}
 \contentsline {subsubsection}{\numberline {1.5.2}Alberi di attacco}{14}{subsubsection.1.5.2}
 \contentsline {subsubsection}{\numberline {1.5.3}Albero di attacco relativo a una applicazione di autenticazione per servizio bancario }{15}{subsubsection.1.5.3}
 \contentsline {subsection}{\numberline {1.6}Strategia per la computer security}{16}{subsection.1.6}
-\contentsline {subsubsection}{\numberline {1.6.1}Specifiche/politiche}{16}{subsubsection.1.6.1}
+\contentsline {subsubsection}{\numberline {1.6.1}Specifiche/politiche}{17}{subsubsection.1.6.1}
 \contentsline {subsubsection}{\numberline {1.6.2}Implementazione/meccanismi}{17}{subsubsection.1.6.2}
-\contentsline {subsubsection}{\numberline {1.6.3}Correttezza/assurance}{17}{subsubsection.1.6.3}
-\contentsline {section}{\numberline {2}CryptoTools}{17}{section.2}
-\contentsline {subsection}{\numberline {2.1}Symmetric Encryption}{17}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {1.6.3}Correttezza/assurance}{18}{subsubsection.1.6.3}
+\contentsline {section}{\numberline {2}CryptoTools}{18}{section.2}
+\contentsline {subsection}{\numberline {2.1}Symmetric Encryption}{18}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Model of Symmetric Encryption}{18}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.2}Approaches to Attacking}{19}{subsubsection.2.1.2}
 \contentsline {subsubsection}{\numberline {2.1.3}Data Encryption Standard (DES)}{19}{subsubsection.2.1.3}
 \contentsline {subsubsection}{\numberline {2.1.4}Triple DES}{20}{subsubsection.2.1.4}
-\contentsline {subsubsection}{\numberline {2.1.5}Advanced Encryption Standards (AES)}{20}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.5}Advanced Encryption Standards (AES)}{21}{subsubsection.2.1.5}
 \contentsline {subsubsection}{\numberline {2.1.6}Block Cipher}{21}{subsubsection.2.1.6}
 \contentsline {subsubsection}{\numberline {2.1.7}Stream Cipher Encryption}{21}{subsubsection.2.1.7}
-\contentsline {subsubsection}{\numberline {2.1.8}Block Cipher vs Stream Cipher}{21}{subsubsection.2.1.8}
+\contentsline {subsubsection}{\numberline {2.1.8}Block Cipher vs Stream Cipher}{22}{subsubsection.2.1.8}
 \contentsline {subsection}{\numberline {2.2}Message Authentication and Hash Function}{22}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Message (or Data) Authentication}{22}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Authentication with and without Symm. Encryption}{22}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2}Authentication with and without Symm. Encryption}{23}{subsubsection.2.2.2}
 \contentsline {subsubsection}{\numberline {2.2.3}Message Authentication Code (MAC)}{24}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Cryptographic Hash Function}{24}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.4}Cryptographic Hash Function}{25}{subsubsection.2.2.4}
 \contentsline {subsection}{\numberline {2.3}Public Key Encryption}{25}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Encryption with public key}{26}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Encrytpion with private key}{26}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.2}Encrytpion with private key}{27}{subsubsection.2.3.2}
 \contentsline {subsubsection}{\numberline {2.3.3}Requirement for Public-Key Cryptosystems and Algorithms}{27}{subsubsection.2.3.3}
 \contentsline {subsection}{\numberline {2.4}Digital Signatures and Key Management}{28}{subsection.2.4}
 \contentsline {subsubsection}{\numberline {2.4.1}Digital Signature}{28}{subsubsection.2.4.1}
 \contentsline {subsubsection}{\numberline {2.4.2}Public Key Certificates}{29}{subsubsection.2.4.2}
 \contentsline {subsubsection}{\numberline {2.4.3}Symmetric Key Exchange Using Public-Key Encryption}{30}{subsubsection.2.4.3}
 \contentsline {subsubsection}{\numberline {2.4.4}Digital Envelopes}{30}{subsubsection.2.4.4}
+\contentsline {subsection}{\numberline {2.5}Random and Pseudorandom Numbers}{31}{subsection.2.5}
+\contentsline {section}{\numberline {3}User authentication}{31}{section.3}
+\contentsline {subsection}{\numberline {3.1}Digital User Authentication Principles}{31}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}E-Architectural model for Digital Authentication}{32}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Risk Assessment for User Authentication}{32}{subsubsection.3.1.2}

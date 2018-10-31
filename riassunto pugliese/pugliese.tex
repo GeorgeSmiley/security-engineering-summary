@@ -510,7 +510,38 @@
 			INSERIRE IMMAGINE PAGINA 70\\
 	\subsection{Random and Pseudorandom Numbers}
 		I numeri casuali giocano un ruolo fondamentale nell'utilizzo dell'encryption.
-			
+		FINIRE PACCO SLIDE.
+\section{User authentication}
+	\subsection{Digital User Authentication Principles}
+		La user authentication ha due funzioni principali:
+		\begin{enumerate}
+			\item \textbf{Identification}: l'utente invia la propria identità al sistema.
+			\item \textbf{Verification (Authentication)}: verificare che l'identità sostenuta dall'utente sia valida.
+		\end{enumerate}
+	Una \textbf{definizione} è la seguente:\\
+	\textit{Il meccanismo di stabilire la fiducia riguardo l'identità dell'utente che sono presentate elettronicamente ad un sistema informativo. }\\
+	INSERIRE SLIDE PAGINA 7\\
+		\subsubsection{E-Architectural model for Digital Authentication}
+			\begin{enumerate}
+				\item In primo luogo l'utente si deve \textbf{registrare} nel sistema. questo significa che dovrà diventare \textbf{subscriber} di un \textbf{credential service providefr (CSP)} attraverso la \textbf{registration authority}. Quest'ultima crea per l'utente le \textbf{electronic credential}, ovvero strutture dati nelle quali sono associati un'identità e attributi addizionali ad un \textbf{token} che è in possesso dell'utente.
+				\item Una volta registrate le credenziali il processo di autenticazione può avere luogo. Il  richiedente presenta il token all'entità che verifica l'identità. Quest'utlima passa un'asserzione riguardo all'identità dell'utente ad un \textbf{relying party} che la utilizza per controllare gli accessi.
+			\end{enumerate}
+			INSERIRE IMMAGINE PAGINA 10
+			Tutti i metodi elencati se propriamente implementati garantiscono la user authentication, tuttavia ognuno di essi ha le sue debolezze. La \textbf{multifactor authentication} è una soluzione valida per aumentare la sicurezza di questa procedura.
+		\subsubsection{Risk Assessment for User Authentication}
+			Descrive il grado di certezza di un'organizzazione che le credenziali presentate da un utente si riferisca effettivamente alla sua identità reale.
+			Nello specifico è il grado di confidenza del processo di stabilire l'identità di chi presenta le credenziali. Inoltre è il grado di confidenza che l'individuo che usa le credenziali sia l'individuo per il quel le credenziali sono state create. \textbf{I livelli di confidenza sono:}
+			\begin{enumerate}
+				\item \textbf{little or no confidfence}: userID and Password.
+				\item \textbf{some confidence}: un qualche tipo di \textit{secure authentication protocol} + una delle tipologie di autenticazione.
+				\item \textbf{High confidence:} autenticazione multifattore.
+				\item \textbf{Very high}:  multiple factors + in-person registration. 
+			\end{enumerate}
+			Il \textbf{FIPS 199} definisce tre livelli di impatto potenziale relativo ad una falla nel sistema di sicurezza.
+			\begin{itemize}
+				\item \textbf{low}: scenario nel quale l'organizzazione riesce comunque ad assolvere alle sue funzioni primarie, ma l'efficacia di queste funzione è \textbf{notevolmente ridotta}.
+				\item \textbf{Moderate}: significativa degradazione delle capacità dell'organizzazione di compiere la propria mission. Efficacia delle funzioni primari \textbf{significativamente ridotta}.
+			\end{itemize}
 			
 		
 		

@@ -40,3 +40,8 @@
 \BOOKMARK [3][-]{subsubsection.2.4.2}{Public Key Certificates}{subsection.2.4}% 40
 \BOOKMARK [3][-]{subsubsection.2.4.3}{Symmetric Key Exchange Using Public-Key Encryption}{subsection.2.4}% 41
 \BOOKMARK [3][-]{subsubsection.2.4.4}{Digital Envelopes}{subsection.2.4}% 42
+\BOOKMARK [2][-]{subsection.2.5}{Random and Pseudorandom Numbers}{section.2}% 43
+\BOOKMARK [1][-]{section.3}{User authentication}{}% 44
+\BOOKMARK [2][-]{subsection.3.1}{Digital User Authentication Principles}{section.3}% 45
+\BOOKMARK [3][-]{subsubsection.3.1.1}{E-Architectural model for Digital Authentication}{subsection.3.1}% 46
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Risk Assessment for User Authentication}{subsection.3.1}% 47
